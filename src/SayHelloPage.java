@@ -8,7 +8,7 @@ public class SayHelloPage {
     public String getName() { return name ;}
 
     public String sayHello() {
-        return "success";
+        return "success in linux";
     }
 
 }
