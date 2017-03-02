@@ -9,7 +9,8 @@ public class SayHelloPage {
 
     public String sayHello() {
     	long ls = 0;
-        return "success in linux" + ls;
+    	String os = "Linux";
+        return "success in linux" + ls + os;
     }
 
 }

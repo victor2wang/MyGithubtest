@@ -12,7 +12,7 @@
              <h:form id="mainForm">
                 <h:outputLabel for="enterName" value="Enter Name"/>
                 <h:inputText id="enterName" value="#{sayHelloPage.name}"/>
-                <h:commandButton value="Say Hello Linux and windows!!!" action="#{sayHelloPage.sayHello}"/>
+                <h:commandButton value="Say Hello Linux,windows and OS!!!" action="#{sayHelloPage.sayHello}"/>
             </h:form>
 </f:view>
 </body>
